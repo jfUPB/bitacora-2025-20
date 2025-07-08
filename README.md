@@ -13,7 +13,7 @@ de la unidad:
 | **Apply**    | Aplicación de lo aprendido en contextos reales o simulados | Capacidad de análisis, uso integrado de saberes |
 | **Reflect**  | Evaluación y reconstrucción del conocimiento               | Metacognición, transferencia, juicio crítico    |
 
-Las bitácoras de cada fase de permitirán documentar tu proceso de aprendizaje y evidenciar tus procesos coginitivos y resultados 
+Las bitácoras de cada fase te permitirán documentar tu proceso de aprendizaje y evidenciar tus procesos coginitivos y resultados 
 del aprendizaje. 
 
 Cada fase tiene actividades. Para reportar los resultados de esas actividades usarás este formato:
