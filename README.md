@@ -69,7 +69,7 @@ Para el diseño de estas bitácoras se consideró el modelo pedagógico integrad
 * El MPI, "privilegia el aprendizaje, la posición activa del estudiante en la construcción de su propio 
 conocimiento, el papel mediador del profesor, la relación profesor–estudiante basada en el diálogo 
 y guiada por el respeto y el reconocimiento de la dignidad del otro como persona."
-* La formación es por compentencia. Estas se definen en la UPB como "la actuación integral para identificar, 
+* La formación es por compentencias. Estas se definen en la UPB como "la actuación integral para identificar, 
 interpretar, argumentar y resolver problemas del contexto integrando conceptos y teorías, actitudes y valores, 
 y habilidades procedimentales y técnicas. 
 * Para la formación en com­petencias, la UPB opta por "el **aprender a aprender** como el proceso de estructura­ción y 
