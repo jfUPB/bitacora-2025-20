@@ -43,7 +43,18 @@ Para insertar código
     ```
   ```
 
-En lenguaje puedes colocar: py para python, js para javascript, bash para comandos de consola, cpp para c++. Por ejemplo, para javascript:
+En lenguaje puedes colocar: py para python, js para javascript, bash para comandos de consola, cpp para c++. Por ejemplo, para insertar código 
+javascript:
+
+  ```
+    ``` js
+      function setup(){
+      
+      }
+    ```
+  ```
+
+El resultado será este:
 
 ``` js
 function setup(){
