@@ -64,7 +64,7 @@ function setup(){
 
 ## Consideraciones de diseño de la bitácora
 
-Para el diseño de estas bitácoras se consideró el modelo pedagógico integrado (MPI):
+Para el diseño de estas bitácoras se consideró el modelo pedagógico integrado (MPI) de la UPB:
 
 * El MPI, "privilegia el aprendizaje, la posición activa del estudiante en la construcción de su propio 
 conocimiento, el papel mediador del profesor, la relación profesor–estudiante basada en el diálogo 
