@@ -80,7 +80,7 @@ posibiliten el aprendizaje significativo.
 ## Implicaciones
 
 ✔ No basta con saber contenido: debes demostrar que puedes usar ese conocimiento de forma integrada para resolver problemas reales.  
-✔ La investigación no es un componente adicional, sino el motor del proceso de *aprender a aprender*.
+✔ La investigación no es un componente adicional, sino el motor del proceso de *aprender a aprender*.  
 ✔ Actuación integral: se espera una combinación de saber conceptual (qué sé), procedimental (qué sé hacer) y actitudinal (cómo actúo).  
 ✔ Eres el protagonista del proceso: no se trata de repetir contenido, sino de reorganizar y transformar el conocimiento en función de 
 tu propio proceso investigativo.  
